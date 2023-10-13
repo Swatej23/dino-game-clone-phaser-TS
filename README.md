@@ -9,7 +9,7 @@ This repository contains a Phaser 3 game created by following a Udemy course. Th
 
 ## Demo
 
-You can play the game online by clicking [here](https://Swatej23.github.io/dino-game-clone-TS).
+You can play the game online by clicking [here](https://swatej23.github.io/dino-game-clone-phaser-TS/).
 
 ## Getting Started
 
